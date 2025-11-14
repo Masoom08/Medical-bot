@@ -1,0 +1,11 @@
+[project]
+name = "medical-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "attrs~=25.4.0",
+    "filelock~=3.20.0",
+    "pip~=23.2.1",
+]

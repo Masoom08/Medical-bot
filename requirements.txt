@@ -1,0 +1,5 @@
+pip~=23.2.1
+attrs~=25.4.0
+filelock~=3.20.0
+python-dotenv~=1.1.1
+langchain~=0.3.27
